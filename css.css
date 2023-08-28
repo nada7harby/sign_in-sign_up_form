@@ -193,7 +193,7 @@ form.sign_up {
 
 .right_panel .content,
 .right_panel .image {
-  transform: translateX(800px);
+  transform: translateX(1000px);
   transition: 1.8s;
 }
 .left_panel .content,
@@ -211,7 +211,7 @@ form.sign_up {
 }
 .sign_up_mode .left_panel .content,
 .sign_up_mode .left_panel .image {
-  transform: translateX(-800px);
+  transform: translateX(-1000px);
 }
 .sign_up_mode .right_panel {
   pointer-events: all;
